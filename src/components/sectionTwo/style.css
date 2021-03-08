@@ -1,0 +1,16 @@
+.two {
+    background-color: rgba(240, 99, 184, 0.15);
+    border-radius: 50px;
+    width: 1117px;
+    height: 560px;
+    margin: 5% 15%;
+    display: flex;
+    padding-right: 50;
+}
+
+.filha {
+    width: 474px;
+    align-items: right;
+    margin-top: 10%;
+    margin-left: 5%;
+}

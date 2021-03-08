@@ -1,0 +1,49 @@
+.p {
+    text-align: center;
+    width: 584px;
+    margin-left: 30%;
+}
+
+.card1 {
+    width: 442px;
+    height: 358px;
+    background: #68C9BA;
+    opacity: 0.9;
+    border-radius: 50px;
+    position: absolute;
+    left: 328.29px;
+    top: 1873px;
+}
+
+.card2 {
+    position: absolute;
+    width: 442px;
+    height: 358px;
+    left: 915.28px;
+    top: 1873px;
+    background: #9C69E2;
+    opacity: 0.9;
+    border-radius: 50px;
+}
+
+.card3 {
+    position: absolute;
+    width: 442px;
+    height: 358px;
+    left: 328.29px;
+    top: 2281px;
+    background: #F063B8;
+    opacity: 0.9;
+    border-radius: 50px;
+}
+
+.card4 {
+    position: absolute;
+    width: 442px;
+    height: 358px;
+    left: 915.28px;
+    top: 2281px;
+    background: #2D9CDB;
+    opacity: 0.9;
+    border-radius: 50px;
+}

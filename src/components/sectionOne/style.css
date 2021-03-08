@@ -1,0 +1,18 @@
+.foto1 {
+    align-items: right;
+    margin-right: 5%;
+    margin-left: 0;
+    margin-top: 200px;
+}
+
+.maior {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 150px;
+}
+
+.menor {
+    margin-left: 30px;
+    width: 30%;
+}
